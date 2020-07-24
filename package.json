@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/neoshadow81/MM-Matrix-Creator/issues"
   },
-  "homepage": "https://github.com/neoshadow81/MM-Matrix-Creator#readme"
+  "homepage": "https://github.com/neoshadow81/MM-Matrix-Creator#readme",
+  "dependencies": {
+    "@matrix-io/matrix-lite": "^0.4.6",
+    "@matrix-io/matrix-lite-nfc": "0.0.2"
+  }
 }
