@@ -1,0 +1,19 @@
+{
+  "name": "mmm-matrix-creator",
+  "version": "1.0.0",
+  "description": "MagicMirror² module for managing Matrix Creator IoT development board",
+  "main": "MMM-Matrix-Creator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neoshadow81/MM-Matrix-Creator.git"
+  },
+  "author": "Marc Delpont <marc@neoshadow.net> (https://neoshadow.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neoshadow81/MM-Matrix-Creator/issues"
+  },
+  "homepage": "https://github.com/neoshadow81/MM-Matrix-Creator#readme"
+}
